@@ -42,7 +42,7 @@ Test Cases Implemented
 4. Timeout Disabled
 File Structure
 UARTS/
-├── uart_parser.c
+├── uart.c
 └── README.md
 Notes
 • No external libraries are used.
